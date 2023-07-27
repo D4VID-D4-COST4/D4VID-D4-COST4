@@ -26,4 +26,4 @@
 | 5   | [Minitalk]               | ✅     |
 | 6   | [Solong]                 | 📝     |
 | 7   | [Push_swap]              | ✅     |
-| 8   | [MiniShell]              | ✅     |
+| 8   | [MiniShell]              | 📝     |
