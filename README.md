@@ -14,17 +14,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 
-  # Course 42
-
-<div align="center">
-| No  | Project                  | Status |  
-| :-: | :----------------------- | :----: | 
-| 1   | [Libft]                  | ✅     |  
-| 2   | [Get_next_Line]          | ✅     |      
-| 3   | [ft_printf]              | ✅     |
-| 4   | [Born2beroot]            | ✅     | 
-| 5   | [Minitalk]               | ✅     |
-| 6   | [Solong]                 | 📝     |
-| 7   | [Push_swap]              | ✅     |
-| 8   | [MiniShell]              | 📝     |
-</div>
