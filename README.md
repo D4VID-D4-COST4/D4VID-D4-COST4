@@ -16,7 +16,7 @@
 
   # Course 42
 
-
+<div align="center">
 | No  | Project                  | Status |  
 | :-: | :----------------------- | :----: | 
 | 1   | [Libft]                  | ✅     |  
@@ -27,3 +27,4 @@
 | 6   | [Solong]                 | 📝     |
 | 7   | [Push_swap]              | ✅     |
 | 8   | [MiniShell]              | 📝     |
+</div>
