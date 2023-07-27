@@ -13,3 +13,29 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
+##
+# Curce42
+<h6>
+█╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱█<br>
+█╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱█<br>
+█╱╱╱╱╭╮╱╭╮╭━━━╮╭╮╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╱╱╱█<br>
+█╱╱╱╱┃┃╱┃┃┃╭━╮┃┃┃╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱█<br>
+█╱╱╱╱┃╰━╯┃╰╯╭╯┃┃┃╱╱╱╭╮╭━━╮┃╰━╮╭━━╮╭━━╮╱╱╱█<br>
+█╱╱╱╱╰━━╮┃╭━╯╭╯┃┃╱╭╮┣┫┃━━┫┃╭╮┃┃╭╮┃┃╭╮┃╱╱╱█<br>
+█╱╱╱╱╱╱╱┃┃┃┃╰━╮┃╰━╯┃┃┃┣━━┃┃╰╯┃┃╰╯┃┃╭╮┃╱╱╱█<br>
+█╱╱╱╱╱╱╱╰╯╰━━━╯╰━━━╯╰╯╰━━╯╰━━╯╰━━╯╰╯╰╯╱╱╱█<br>
+█╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱█<br>
+█╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱█<br>
+</h6>
+
+#
+| No  | Project                  | Status |  
+| :-: | :----------------------- | :----: | 
+| 1   | [Libft]                  | ✅     |  
+| 2   | [Get_next_Line]          | ✅     |      
+| 3   | [ft_printf]              | ✅     |
+| 4   | [Born2beroot]            | ✅     | 
+| 5   | [Minitalk]               | ✅     |
+| 6   | [Solong]                 | 📝     |
+| 7   | [Push_swap]              | ✅     |
+| 8   | [MiniShell]              | ✅     |
