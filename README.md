@@ -1,4 +1,4 @@
-### Hi 🚀 I'm biguiner developer
+### Hi 🚀 I'm beginner developer
 
 <div align="center">
   <a href="https://github.com/Sr-Mushu">
