@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Also known online as SrMushu I'm a beginner developer.</h3>
-- 🔭 I’m currently looking for a job. **In web develpe to start my career.**
  
 - 🌱 I’m currently learning **Js and React.**
 
